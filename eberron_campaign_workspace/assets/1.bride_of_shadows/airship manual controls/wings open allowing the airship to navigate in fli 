@@ -1,0 +1,8 @@
+# Wings
+  open, allowing the airship to navigate in flight.
+
+Down: Wings
+  retract, reducing the airship's flying speed to 0 and making it unable to
+  benefit from bonuses to speed. (If flying, the Airship plummets to the
+  ground, taking falling damage)
+Lever: 2

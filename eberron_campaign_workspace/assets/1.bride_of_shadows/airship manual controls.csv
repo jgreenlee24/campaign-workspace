@@ -1,0 +1,35 @@
+﻿Lever,Up,Down
+1,"Wheels
+  extract, allowing the airship to roll at its land movement speed.","Wheels
+  retract, reducing the airship's speed to 0 and making it unable to benefit
+  from bonuses to speed."
+2,"Wings
+  open, allowing the airship to navigate in flight.","Wings
+  retract, reducing the airship's flying speed to 0 and making it unable to
+  benefit from bonuses to speed. (If flying, the Airship plummets to the
+  ground, taking falling damage)"
+3,"Tail
+  expands, allowing an additional 4 medium sized humanoids to fit. (Tail must
+  be expanded for flight)","Tail
+  retracts, dealing crushing damage to all humanoids in the tail section. On a
+  failed Dex Save DC 15 4d10 damage is dealt and those in the tails are
+  expelled, landing prone outside. (If flying, the Airship plummets to the
+  ground, taking falling damage)"
+4,"The
+  airship moves or flies forward.","The
+  airship moves or flies backward."
+5,"The
+  airship turns 90 degrees left.","The
+  airship turns 90 degrees right."
+6,"The
+  engines extract and fire up, allowing the airship to take flight.","The
+  engines retract and shut down, reducing the airship's flying speed to 0
+  and making it unable to benefit from bonuses to speed. (If flying, the
+  Airship plummets to the ground, taking falling damage)"
+7,"The
+  airship lowers as much as 20 feet in the air. (No effect if on the
+  ground)","The
+  airship rises up to 20 feet in the air."
+8,"The rear
+  tail section opens, allowing passengers to enter/exit.","The rear
+  tail section closes."

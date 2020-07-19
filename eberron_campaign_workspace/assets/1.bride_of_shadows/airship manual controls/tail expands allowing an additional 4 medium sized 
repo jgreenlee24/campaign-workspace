@@ -1,0 +1,10 @@
+# Tail
+  expands, allowing an additional 4 medium sized humanoids to fit. (Tail must
+  be expanded for flight)
+
+Down: Tail
+  retracts, dealing crushing damage to all humanoids in the tail section. On a
+  failed Dex Save DC 15 4d10 damage is dealt and those in the tails are
+  expelled, landing prone outside. (If flying, the Airship plummets to the
+  ground, taking falling damage)
+Lever: 3

@@ -1,0 +1,7 @@
+# Wheels
+  extract, allowing the airship to roll at its land movement speed.
+
+Down: Wheels
+  retract, reducing the airship's speed to 0 and making it unable to benefit
+  from bonuses to speed.
+Lever: 1

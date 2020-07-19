@@ -1,0 +1,8 @@
+# The
+  engines extract and fire up, allowing the airship to take flight.
+
+Down: The
+  engines retract and shut down, reducing the airship's flying speed to 0
+  and making it unable to benefit from bonuses to speed. (If flying, the
+  Airship plummets to the ground, taking falling damage)
+Lever: 6

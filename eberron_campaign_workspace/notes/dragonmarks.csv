@@ -1,0 +1,22 @@
+﻿Mark,House,Race,Influence
+Detection,Medani,Half-elf,Warning Guild
+Finding,Tharashk,Human,Finders Guild
+Handling,Vadalis,Human,Handlers Guild
+Healing,Jorasco,Halfling,Healers Guild
+Hospitality,Ghallanda,Halfling,Hostelers Guild
+Making,Cannith,Human,"Tinkers Guild,
+  Fabricators Guild"
+Passage,Orien,Human,"Couriers Guild,
+  Transportation Guild"
+Scribing,Sivis,Gnome,"Notaries Guild,
+  Speakers Guild"
+Sentinel,Deneith,Human,"Blademarks Guild,
+  Defenders Guild"
+Shadow,Phiarlan,Elf,"Entertainers and
+  Artisans Guild"
+Shadow,Thuranni,Elf,Shadow Network
+Storm,Lyrander,Half-elf,"Windwrights Guild,
+  Raincallers Guild"
+Warding,Kundarak,Dwarf,"Banking Guild,
+  Warding Guild"
+Aberrant,Tarkanan,Any,Children of Khyber
